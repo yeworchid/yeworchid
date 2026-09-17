@@ -1,6 +1,6 @@
 ![yeworchid — buy me a macbook](assets/header.svg)
 
-Пишу на C# / .NET, делаю свои проекты. Ищу работу в бэкенде.
+Пишу на C# / .NET, делаю свои проекты.
 
 <p>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square" alt="C#">
